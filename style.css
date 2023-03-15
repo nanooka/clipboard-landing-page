@@ -232,10 +232,10 @@ a:hover {
     width: 350px;
   }
   .access {
-    max-width: 50%;
+    max-width: 80%;
   }
   .devices-image {
-    width: 65%;
+    width: 100%;
   }
   main {
     margin-left: 165px;
